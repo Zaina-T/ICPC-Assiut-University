@@ -31,7 +31,7 @@ To get started with these solutions, you can clone the repository and explore th
    git clone https://github.com/yourusername/ICPC-Assiut-Solutions.git
    
 2. Navigate to a specific problem folder to review the solution files.
-3. 3. Compile and run the C++ code using your preferred compiler.
+3. Compile and run the C++ code using your preferred compiler.
 
 ## About ICPC Assiut Training
 The ICPC Assiut University Training is part of the preparation for the International Collegiate Programming Contest, aiming to strengthen problem-solving skills and algorithm knowledge.
