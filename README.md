@@ -28,7 +28,7 @@ To get started with these solutions, you can clone the repository and explore th
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ICPC-Assiut-Solutions.git
+   git clone https://github.com/g-mshvidobadze/ICPC-Assiut-University.git
    
 2. Navigate to a specific problem folder to review the solution files.
 3. Compile and run the C++ code using your preferred compiler.
