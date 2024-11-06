@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+string f1, s1, f2, s2;
+int main() {
+    cin >> f1 >> s1 >> f2 >> s2;
+    if (s1 == s2)
+        cout << "ARE Brothers" <<endl;
+    else 
+        cout << "NOT" << endl;
+        
+}
